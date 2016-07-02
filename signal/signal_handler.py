@@ -36,7 +36,7 @@ def main():
     try:
         while True:
             time.sleep(0.2)
-            #print('No signal arrive.')
+            logging.info('No signal arrive.')
     except KeyboardInterrupt: # Default: SIGINT is translated into a KeyboardInterrupt exception.
         logging.info('KeyboardInterrupt')
 
