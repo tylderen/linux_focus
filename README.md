@@ -9,7 +9,7 @@
 - [x]  ThreadPool
 
 - [x]  Thread synchronization
->         Lock
+>*         Lock
 
 
 ### I'll add some other module as soon.
