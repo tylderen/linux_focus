@@ -4,9 +4,12 @@
 
 ## Here are:   
     
-    >*  Signal
+>*  Signal
     
-    >*  ThreadPool
+>*  ThreadPool
+
+>* Thread synchronization
+>         Lock
 
 
 ### I'll add some other module as soon.
