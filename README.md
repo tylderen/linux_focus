@@ -4,11 +4,11 @@
 
 ## Here are:   
     
->*  Signal
+- [x]  Signal
     
->*  ThreadPool
+- [x]  ThreadPool
 
->* Thread synchronization
+- [x]  Thread synchronization
 >         Lock
 
 
